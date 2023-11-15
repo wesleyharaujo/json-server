@@ -6,6 +6,7 @@
     {
       "type": 1,
       "model": 2,
+      "version": "1.1.5",
       "automations": [
         0,
         2,
