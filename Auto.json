@@ -1,0 +1,16 @@
+{
+  "id": 1,
+  "name": "SL001",
+  "type": "solaris",
+  "components": [
+    {
+      "type": 1,
+      "model": 2,
+      "automations": [
+        0,
+        2,
+        3
+      ]
+    }
+  ]
+}
